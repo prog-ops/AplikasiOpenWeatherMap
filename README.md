@@ -1,5 +1,9 @@
-# AplikasiJuloOpenWeatherMap
-Aplikasi OpenWeatherMap
+# Aplikasi OpenWeatherMap
+
+## How to use
+- Write city / country name
+- Click enter your city to show result
+- Click add to favorite to save
 
 ## Fitur:
 - As a user, I can search locations by city name, to find out which cities have weather info
@@ -11,6 +15,6 @@ Aplikasi OpenWeatherMap
 - coroutine
 - etc..
 
-### What's not yet done
-- As a user, I can save a city as a Favorite location so I can find it faster next time.
+### Only codes, not implemented yet
+- As a user, I can save a city as a Favorite location so I can find it faster next time (caching)
 - unit test
